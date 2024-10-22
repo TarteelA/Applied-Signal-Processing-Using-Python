@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "Coeffs",
+        "FFILT",
+        "fontsize",
+        "freqs",
+        "hann",
+        "Inverseing",
+        "irfft",
+        "morl",
+        "morlet",
+        "Ndft",
+        "nfft",
+        "noverlap",
+        "nperseg",
+        "pywt",
+        "rfft",
+        "rfftfreq",
+        "stft",
+        "wavfile"
+    ]
+}
