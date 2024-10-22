@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "coeffs",
+        "freqs",
+        "irfft",
+        "rfft",
+        "rfftfreq",
+        "soundfile",
+        "wavfile"
+    ]
+}
